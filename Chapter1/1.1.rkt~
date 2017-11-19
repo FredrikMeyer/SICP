@@ -1,0 +1,9 @@
+#lang sicp
+
+;; What is the result of the evaluation of these expressions?
+
+;; 10
+
+10
+
+;; 
